@@ -44,14 +44,13 @@ export function HomeHero() {
                   alt="Flag"
                   className="mb-2 w-24"
                 />
-
               </div>
             </div>
           </div>
           <div>
             <img
               src={groupImage}
-              className="size-full object-cover"
+              className="size-full object-cover rounded-2xl"
               alt="Relume placeholder image"
             />
           </div>
