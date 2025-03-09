@@ -1,5 +1,5 @@
 import React from 'react';
-import { HomeHero } from '../components/home-hero';
+import { HomeHero } from '../components/blocks/home-hero';
 
 const Home: React.FC = () => {
   return (
